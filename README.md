@@ -2,9 +2,9 @@
 
 ## 💻 Projeto
 
-O <b>Habits</b> é um aplicativo usado para ajudar a rastrearhábitos.
+O <b>Habits</b> é um aplicativo usado para ajudar a rastrear hábitos.
 
-- [Acesse o projeto finalizado, online]()
+- [Acesse o projeto online.](https://diegoalisson88.github.io/NLW_Setup/)
 
 <br>
 
